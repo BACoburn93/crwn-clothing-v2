@@ -1,0 +1,1 @@
+export const selectCurrentUser = (state) => state.user.currentUser; // exports a function that takes in the state data and returns the user.urrentUser from that state, to extract only that data within
